@@ -1,5 +1,5 @@
+# MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
+
 <div align="center">
-  <video width="80%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-          <source src="video/demo.mp4" type="video/mp4">
-  </video>
+  <img width="800" src="assets/demo.gif">
 </div>

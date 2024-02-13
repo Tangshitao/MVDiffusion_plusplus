@@ -3,3 +3,7 @@
 <div align="center">
   <img width="800" src="assets/demo.gif">
 </div>
+
+<div align="center">
+  <img width="800" src="assets/teaser.pdf">
+</div>

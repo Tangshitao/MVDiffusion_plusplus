@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <img width="800" src="assets/teaser.pdf">
+  <img width="800" src="assets/teaser.png">
 </div>

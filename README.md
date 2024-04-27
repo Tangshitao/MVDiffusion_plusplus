@@ -1,3 +1,5 @@
+## We don't think the codes can be released from our side, but we are open for 3rd party implementation. If you are interested in reproducing the work and have GPU resources (more than 8 X A100), please contact shitaot@gmail.com. We will help to reproduce the results. 
+
 # MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
 
 <div align="center">
